@@ -11,6 +11,8 @@ While the notebook contained an "Exploratory Data Analysis" section, specific in
 - **Gender Distribution:** Gender-wise, the dataset is fairly balanced, with 3,555 male customers and 3,488 female customers. Again, bar and pie charts provide a clear view.
 - **Tenure Analysis:** A distribution plot indicates customer tenure, revealing the span customers have been associated with the company.
 
+- The model's overall accuracy stands at 0.82, showcasing a competent ability to predict customer churn.
+
 ![Alternative Text](CHURN-IMAGES/download%20(6).png)
 ![Alternative Text](CHURN-IMAGES/download%20(7).png)
 
