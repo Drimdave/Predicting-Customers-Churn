@@ -1,4 +1,4 @@
-# Predictive Analysis of Customer Churn
+# Predictive Analysis of Customers' Churn
 
 ## Project Overview or Summary
 
