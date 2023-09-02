@@ -6,7 +6,6 @@ In the fast-paced world of telecommunications, retaining customers is of utmost 
 
 ## Results or Findings (In-depth)
 
-While the notebook contained an "Exploratory Data Analysis" section, specific insights or detailed content directly following its header weren't extracted. However, based on subsequent visualizations and analyses, we can derive certain patterns:
 - **Churn Distribution:** The dataset predominantly features customers who did not churn, with 5,174 non-churn instances and 1,869 churn cases. This distribution is presented through bar and pie charts.
 - **Gender Distribution:** Gender-wise, the dataset is fairly balanced, with 3,555 male customers and 3,488 female customers. Again, bar and pie charts provide a clear view.
 - **Tenure Analysis:** A distribution plot indicates customer tenure, revealing the span customers have been associated with the company.
